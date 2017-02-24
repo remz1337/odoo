@@ -892,7 +892,7 @@
                         <div class="alert alert-info info_icon" role="alert">
                             <span class="fa fa-lightbulb-o fa-lg"/>
                             <li>Internal notes are messages that will appear in the Chatter but will not be notified in Odoo's Inbox.</li>
-                            <li>You can reply directly to a message from you email software; the message and its attachments will be added to the Chatter.</li>
+                            <li>You can reply directly to a message from your email software; the message and its attachments will be added to the Chatter.</li>
                             <li>If you don't want to receive email notifications, you can uncheck the option in your <a t-att-href="prepare_backend_url('base.action_res_users', 'form')">Account Preferences</a>.</li>
                         </div>
                     </div>
